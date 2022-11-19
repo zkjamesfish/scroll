@@ -8,12 +8,12 @@ require (
 	github.com/pressly/goose/v3 v3.16.0
 	github.com/scroll-tech/go-ethereum v1.10.14-0.20240426041101-a860446ebaea
 	github.com/stretchr/testify v1.9.0
-	github.com/urfave/cli/v2 v2.25.7
+	github.com/urfave/cli/v2 v2.25.7 
 )
 
 require (
 	dario.cat/mergo v1.0.0 // indirect
-	github.com/cpuguy83/go-md2man/v2 v2.0.3 // indirect
+	github.com/cpuguy83/go-md2man/v2 v2.0.3 // indirect 
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/docker/cli v25.0.4-0.20240305161310-2bf4225ad269+incompatible // indirect
 	github.com/docker/docker v26.1.0+incompatible // indirect
