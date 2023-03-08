@@ -19,6 +19,22 @@ require (
 )
 
 require (
+	github.com/agiledragon/gomonkey/v2 v2.11.0
+	github.com/consensys/gnark-crypto v0.12.1
+	github.com/crate-crypto/go-kzg-4844 v1.0.0
+	github.com/gin-gonic/gin v1.9.1
+	github.com/go-resty/resty/v2 v2.7.0
+	github.com/holiman/uint256 v1.2.4
+	github.com/prometheus/client_golang v1.16.0
+	github.com/scroll-tech/da-codec v0.0.0-20240605080813-32bfc9fccde7
+	github.com/scroll-tech/go-ethereum v1.10.14-0.20240426041101-a860446ebaea
+	github.com/smartystreets/goconvey v1.8.0
+	github.com/stretchr/testify v1.9.0
+	github.com/urfave/cli/v2 v2.25.7
+	gorm.io/gorm v1.25.5
+)
+
+require (
 	github.com/VictoriaMetrics/fastcache v1.12.1 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/bits-and-blooms/bitset v1.12.0 // indirect
