@@ -23,6 +23,7 @@ import (
 	"scroll-tech/common/types/message"
 
 	"scroll-tech/prover/config"
+	"scroll-tech/prover/tests"
 )
 
 // ProverCore sends block-traces to rust-prover through ffi and get back the zk-proof.
